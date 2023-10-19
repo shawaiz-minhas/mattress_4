@@ -61,3 +61,11 @@ body {
 	background: #E0F7FF !important;
 	font-family: Arial bold !important;
 }
+@font-face {
+    font-family: Arial bold;
+    src: url(./font/Arial-Rounded-MT-Bold-Font/ARLRDBD.ttf);
+    font-weight: bold;
+  }
+  body{
+    font-family: Arial bold !important;
+  }

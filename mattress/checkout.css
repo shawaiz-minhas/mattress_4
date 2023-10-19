@@ -18,3 +18,12 @@
     border: 2px solid #055598 !important;
     background-color: #055598 !important;
     }
+
+    @font-face {
+        font-family: Arial bold;
+        src: url(./font/Arial-Rounded-MT-Bold-Font/ARLRDBD.ttf);
+        font-weight: bold;
+      }
+      body{
+        font-family: Arial bold !important;
+      }

@@ -4361,7 +4361,14 @@ input[type="button"].btn-block {
   color: #fff;
 }
 
-
+@font-face {
+  font-family: Arial bold;
+  src: url(./font/Arial-Rounded-MT-Bold-Font/ARLRDBD.ttf);
+  font-weight: bold;
+}
+body{
+  font-family: Arial bold !important;
+}
 .card {
   position: relative;
   display: flex;
