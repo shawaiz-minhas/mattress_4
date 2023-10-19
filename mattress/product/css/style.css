@@ -4380,9 +4380,6 @@ body{
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
-.card img{
-  height: 311px;
-}
 
 .card > hr {
   margin-right: 0;
