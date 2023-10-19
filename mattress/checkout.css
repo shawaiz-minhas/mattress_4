@@ -1,0 +1,20 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+    body{
+        background-color: #e0f7ff !important;
+    }
+    .bg-primarys{
+        background-color: #02A0D1 !important;
+    }
+    .btn-infos:hover,.btn-infos{
+    border-radius: 50px !important;
+    padding: 10px 34px !important;
+    text-decoration: none;
+    background-color: transparent;
+    color: white !important;
+    border: 2px solid #055598 !important;
+    background-color: #055598 !important;
+    }
